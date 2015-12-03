@@ -76,6 +76,8 @@ public class Anagrams extends JFrame {
         //Termina el método main
         /*No hago otro cambio que no sean comentario porque no es un código fácil de interpretar para
         alguien que acaba de empezar a programar*/
+        
+        System.out.println("Viva DAM1!!!");
     }
 
     private int wordIdx = 0;
