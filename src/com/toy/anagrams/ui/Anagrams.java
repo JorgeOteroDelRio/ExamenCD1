@@ -73,6 +73,7 @@ public class Anagrams extends JFrame {
                 new Anagrams().setVisible(true);
             }
         });
+        //Termina el método main
     }
 
     private int wordIdx = 0;
